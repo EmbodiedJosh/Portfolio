@@ -21,4 +21,4 @@ With over 100 educational tutorials and over 300,000 minutes of watch time, my t
 
 Stories expose the "why" beneath the "what" and the "how". All of the skills I've developed on my journey are enhanced with an underlying story. Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. 
 
-Underlying stories can be difficult to find, but I'm determined to unearth them and learn any new systems to convey them in order to enhance and magnify the work being done. 
+Underlying stories can be difficult to find, but I'm determined to unearth them and learn any new systems to convey them, in order to enhance and magnify the work being done. 
