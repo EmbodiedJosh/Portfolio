@@ -11,13 +11,15 @@ My passion for stories fed my passoin for teaching, as the first led me to learn
 * Polygonal Modeling
 
 and the second led me to grasp communicative systems through which to simplify the complex for beginners: 
-* Web Development
 * Video Editing
+* Web Development
 * Computer Systems
 * Motion Graphics/Post Production 
 * API Documentation
 
-Stories expose the "why" beneath the "what" and the "how". Technical Writing, Web Development, Computer Systems, Communications, Video Editing- all are skills I developed on my journey and all are enhanced with an underlying story. Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. Underlying stories can be difficult to find, but I'm determined to unearth them to enhance and magnify the work being done. 
+
+
+Stories expose the "why" beneath the "what" and the "how". All of the skills I've developed on my journey are enhanced with an underlying story. Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. Underlying stories can be difficult to find, but I'm determined to unearth them and learn any new systems to convey them in order to enhance and magnify the work being done. 
 
 You can use the [editor on GitHub](https://github.com/EmbodiedJosh/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
