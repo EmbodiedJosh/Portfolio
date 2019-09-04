@@ -13,9 +13,9 @@ My passion for stories fed my passoin for teaching, as the first led me to learn
 and the second led me to grasp communicative systems through which to simplify the complex for beginners: 
 * Video Editing
 * Web Development
+* Technical Writing
 * Computer Systems
 * Motion Graphics/Post Production 
-* API Documentation
 
 With over 100 educational tutorials and over 300,000 minutes of watch time, my teaching on YouTube has earned me the privledge of becoming a YouTube partner and the opportunity to see members of my community learn new systems of their own and make tangible progress in achieving their own ambitions. 
 
