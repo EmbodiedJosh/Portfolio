@@ -4,13 +4,18 @@ I went to [Film School](https://www.biola.edu/film) to learn how to tell them, a
 
 >Stories expose the "why" beneath the "what" and the "how". 
 
-My passion for stories fed my passoin for teaching, as the first led me to learning and deconstructing advanced artistic systems like
+My passion for stories fed my passoin for teaching, as the first led me to learning and deconstructing advanced artistic systems like:
 * Photobashing
 * Realtime Ray Trace Rendering 
 * Voxel Sculpting 
 * Polygonal Modeling
 
-while the second had me simplify the complex for beginners. 
+and the second led me to grasp communicative systems through which to simplify the complex for beginners: 
+* Web Development
+* Video Editing
+* Computer Systems
+* Motion Graphics/Post Production 
+* API Documentation
 
 Stories expose the "why" beneath the "what" and the "how". Technical Writing, Web Development, Computer Systems, Communications, Video Editing- all are skills I developed on my journey and all are enhanced with an underlying story. Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. Underlying stories can be difficult to find, but I'm determined to unearth them to enhance and magnify the work being done. 
 
