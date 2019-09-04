@@ -6,7 +6,7 @@ I went to [Film School](https://www.biola.edu/film) to learn how to tell them, a
 
 My passion for stories fed my passoin for teaching, as the first led me to learning and deconstructing advanced artistic systems like Photobashing, Realtime Ray Trace Rendering, Voxel Sculpting, and Polygonal Modeling, while the second had me simplify the complex for beginners. 
 
-Technical Writing, Web Development, Computer Systems, Communications, Video Editing- all are skills I developed on my journey and all are enhanced with an underlying story. Stories expose the "why" beneath the "what" and the "how". Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. Underlying stories can be difficult to find, but I'm determined to unearth them to enhance and magnify the work being done. 
+Stories expose the "why" beneath the "what" and the "how". Technical Writing, Web Development, Computer Systems, Communications, Video Editing- all are skills I developed on my journey and all are enhanced with an underlying story. Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. Underlying stories can be difficult to find, but I'm determined to unearth them to enhance and magnify the work being done. 
 
 You can use the [editor on GitHub](https://github.com/EmbodiedJosh/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
