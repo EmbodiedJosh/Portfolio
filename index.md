@@ -28,6 +28,8 @@ and the second led me to grasp communicative systems through which to simplify t
 
 * Web Development 
 
+*
+
 * Technical Writing 
 
 * Computer Systems 
