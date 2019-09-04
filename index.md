@@ -17,7 +17,7 @@ and the second led me to grasp communicative systems through which to simplify t
 * Motion Graphics/Post Production 
 * API Documentation
 
-
+With over 100 educational tutorials and over 300,000 minutes of watch time, my teaching on YouTube has earned me the privledge of becoming a YouTube partner and the opportunity to see members of my community learn new systems of their own and make tangible progress in achieving their own ambitions. 
 
 Stories expose the "why" beneath the "what" and the "how". All of the skills I've developed on my journey are enhanced with an underlying story. Underlying stories facilitate effective contribution and understanding internally, and ensures optimal brand cohesion and user experience externally. 
 
