@@ -14,6 +14,10 @@ My passion for stories fed my passion for teaching, as the first led me to learn
 
 * Photobashing 
 
+* Principles and Elements of Design
+
+* Iconography 
+
 * Realtime Ray Trace Rendering  
 
 * Voxel Sculpting  
