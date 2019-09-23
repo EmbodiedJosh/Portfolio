@@ -2,7 +2,7 @@
 
   
 
-I TEST to [Film School](https://www.biola.edu/film) to learn how to tell them, and started my [YouTube](https://www.youtube.com/embodiedjosh) so I could share them with others. Not wanting my worlds to be confined to the page, I started teaching myself Digital Art and Design: sharing what I learned as I learned it with the next generation of dreamers.   
+I went to [Film School](https://www.biola.edu/film) to learn how to tell them, and started my [YouTube](https://www.youtube.com/embodiedjosh) so I could share them with others. Not wanting my worlds to be confined to the page, I started teaching myself Digital Art and Design: sharing what I learned as I learned it with the next generation of dreamers.   
 
   
 
