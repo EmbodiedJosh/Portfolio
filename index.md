@@ -2,16 +2,13 @@
 
 I specialize in project management, content strategy, video production, writing, and editing. I'm responsible for the outlines, storyboards, transcripts, shooting, video editing, and post production of over 100 educational training videos. 
 
+>Stories expose the "why" beneath the "what" and the "how".  
+
 I like partnering with people to help them tell their stories, get audiences excited about their work, and help that work get done. Nothing makes me happier than finding the right words and techniques needed to simplify and streamline complex information. I think clear, clever, and compelling narratives are the best way to engage an audience and impart understanding, both internally and externally.  
 
 I went to [Film School](https://www.biola.edu/film) to learn how stories worked, and started my [YouTube Channel](https://www.youtube.com/embodiedjosh) so I could share my story with others. I want to tell stories that change people's lives. I believe the future of storytelling is interactive, and I created my own Process to learn the skills neccesary to tell them through games.  
 
   
-
->Stories expose the "why" beneath the "what" and the "how".  
-
-  
-
 My passion for stories fed my passion for teaching, as the first led me to learning and deconstructing advanced artistic systems like: 
 
 * Photobashing 
