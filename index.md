@@ -6,7 +6,7 @@ I specialize in Project Management, Content Strategy, Video Production, Creative
 
 I like partnering with people to help them tell their stories, get audiences excited about their work, and help that work get done. Nothing makes me happier than finding the right words and techniques needed to simplify and streamline complex information. I think clear, clever, and compelling narratives are the best way to engage an audience and impart understanding, both internally and externally. 
 
->Managing project calendars, establishing milestones, leading meetings, maintaining morale, and ensuring everyone's on the same page are areas in which I excel. 
+Managing project calendars, establishing milestones, leading meetings, maintaining morale, and ensuring everyone's on the same page are areas in which I excel. 
 
 I went to [Film School](https://www.biola.edu/film) to learn how stories worked, and started my [YouTube Channel](https://www.youtube.com/embodiedjosh) so I could share my story with others. I want to tell and write stories that change people's lives. I believe the future of storytelling is interactive, and I created my own Process to learn the skills neccesary to tell them through games.  
 
