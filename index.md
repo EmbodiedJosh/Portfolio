@@ -11,7 +11,7 @@ Managing project calendars, establishing milestones, leading meetings, maintaini
 I went to [Film School](https://www.biola.edu/film) to learn how stories worked, and started my [YouTube Channel](https://www.youtube.com/embodiedjosh) so I could share my story with others. I want to tell and write stories that change people's lives. I believe the future of storytelling is interactive, and I created my own Process to learn the skills neccesary to tell them through games.  
 
   
-My passion for stories fed my passion for teaching, as the first led me to learning and deconstructing advanced artistic systems like: 
+My passion for stories fed my passion for teaching, as the first led me to learn and deconstruct advanced artistic systems like: 
 
 * Photobashing 
 
