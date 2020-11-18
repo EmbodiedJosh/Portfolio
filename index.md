@@ -1,6 +1,6 @@
 ## Story is everything.  
 
-I specialize in Project Management, Content Strategy, Video Production, Writing, and Editing. I'm responsible for the outlines, storyboards, transcripts, shooting, video editing, and post production of over 100 educational training videos. 
+I specialize in Project Management, Content Strategy, Video Production, Creative Writing, Technical Writing, and Editing. I'm responsible for the outlines, storyboards, transcripts, shooting, video editing, and post production of over 100 educational training videos. 
 
 >Stories expose the "why" beneath the "what" and the "how".  
 
